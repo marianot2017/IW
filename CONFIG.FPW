@@ -1,0 +1,15 @@
+CATMAN=OFF
+MEMLIMIT=80,4000,8000
+CODEPAGE=AUTO
+
+F2='modi proje iwp000;'
+F3='do prg\iwp000;'
+F4='BUILD PROJECT IWP000;DO prg\IWP000;'
+F5='modi comm?;'
+F6='modi scre?;'
+F7='modi repo?;'
+F8='rest macro from ivaini;'
+F9='set defa to k:\iw;'
+F10='when&w_pfile()'
+F11='valid&w_pfile()'
+F12='XXXXX'
